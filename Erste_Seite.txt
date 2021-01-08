@@ -1,0 +1,30 @@
+<html> 
+ 	<head>
+ 		<title>Das Spiel beginnt!</title>
+		<link href="Erste_Seite_CSS.css" type= "text/css" rel="stylesheet" />
+		
+	</head>
+	<body>
+ 	<div align= "center">
+ 	 	<img src="Blume.jpg" alt="Blume">
+	</div>
+            <b><i><h1><p align="center">Willkommen im Spiel!</i></b></h1>
+	    <h2><p align="center"> Programmiert und erstellt von: </p>
+ 	    <p align="center">Lena Groß (Schülerin der Arwed-Rossbach-Schule Leipzig) </h2> </p>
+	    <h2><p align="center"> In Zusammenarbeit mit: </p>
+	    <p align="center">Frau Göpfert-Krauß (Vertreterin des Fördervereins Botanischer Lehrgarten Leipzig) </h2> </p></p>
+	    <hr>
+	    <h1><p align="center"> Das sind die Spielregeln: </h1> </p>
+  	    <h2><p align="center">1. Einhalten der Gartenordnung! <br>
+		    2. Wir bleiben auf dem Weg! <br>
+		    3. Spielen unter eigener Verantwortung! </p>     
+	    <hr>
+	    <h1><p align="center"> Das Ziel: </h1></p>
+	    <h2><p align="center"> Finde die richtige Ergenuzung unter drei Antwortmöglichkeiten! <br> 
+		    Wenn du alle acht Stationen gemeistert hast, findest du den Ort an dem der Schatz versteckt ist!</h2></p>
+	    <hr>
+	    <h1><p align="center"> Viel Glück!</h1></p>	
+	</body>
+</html>
+ 
+	
